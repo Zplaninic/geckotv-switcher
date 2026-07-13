@@ -7,4 +7,5 @@ A minimal Chrome extension that automatically opens the TradingView chart on Coi
 1. Open `chrome://extensions`.
 2. Enable **Developer mode** (top right).
 3. Click **Load unpacked** and select this directory (`geckotv_switcher/`).
-4. isit a CoinGecko coin page in a fresh tab, e.g. `https://www.coingecko.com/en/coins/bitcoin` or `https://www.coingecko.com/en/coins/ethereum`.
+4. Visit a CoinGecko coin page in a fresh tab, e.g. `https://www.coingecko.com/en/coins/bitcoin` or `https://www.coingecko.com/en/coins/ethereum`.
+5. Confirm the TradingView chart loads automatically and defaults to the **1D** interval (top toolbar, next to the symbol search).
