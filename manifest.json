@@ -19,6 +19,13 @@
       "matches": ["https://www.coingecko.com/en/coins/*"],
       "js": ["content.js"],
       "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://s.tradingview.com/widgetembed/*"],
+      "js": ["indicator-colors.js"],
+      "all_frames": true,
+      "run_at": "document_idle",
+      "world": "MAIN"
     }
   ]
 }
