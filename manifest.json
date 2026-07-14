@@ -22,7 +22,7 @@
     },
     {
       "matches": ["https://s.tradingview.com/widgetembed/*"],
-      "js": ["ema-colors.js"],
+      "js": ["indicator-colors.js"],
       "all_frames": true,
       "run_at": "document_idle",
       "world": "MAIN"
